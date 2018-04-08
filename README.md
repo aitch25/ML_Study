@@ -1,20 +1,20 @@
-# Machine Learning Study (4/7, 2018)
-- Àå¼Ò: ¸ğÀÓ 1È£Á¡(»ç´ç¿ª) - http://www.moimstudy.com/
-- ½Ã°£: Åä¿äÀÏ ¿ÀÈÄ 7½Ã(°İÁÖ·Î ¸ğÀÏ ¿¹Á¤)
+# Machine Learning Study (4/21, 2018)
+- ì¥ì†Œ(ë¯¸ì •): ëª¨ì„ 1í˜¸ì (ì‚¬ë‹¹ì—­) - http://www.moimstudy.com/
+- ì‹œê°„: í† ìš”ì¼ ì˜¤í›„ 7ì‹œ
 
-- ³»¿ë: ±ÙÃ³¿¡¼­ Àú³á½Ä»ç ÈÄ ½ºÅÍµğ Çü½Ä°ú ÁøÇà¹æÇâ ¼Ò°³ ¿¹Á¤ 
-	+ ¿ÀÈÄ 6½Ã-7½Ã -> Àú³á½Ä»ç
-	+ ¿ÀÈÄ 7½Ã-9½Ã -> ½ºÅÍµğ ¿¹Á¤
+- ë‚´ìš©: Chapter 1, Murphy - Machine Learning
+	+ 7:00-7:30 -> ê°ì ì˜ˆìŠµ ë° ë³µìŠµ
+	+ 7:40-8:15 -> ì´ëŒ€í™” ë°œí‘œ(Chapter 1.1 ~ 1.3)
+	+ 8:25-9:00 -> ì—¼ìŠ¹ìš° ë°œí‘œ(Chapter 1.4)
 
-- ÁøÇà ¹æ¹ı: 
-	+ 7:00-7:30 -> °¢ÀÚ ¿¹½À ¹× º¹½À
-	+ 7:40-8:15 -> ¹ßÇ¥ÀÚ1 ¹ßÇ¥
-	+ 8:25-9:00 -> ¹ßÇ¥ÀÚ2 ¹ßÇ¥
-
-- ±³Àç: Murphy - Machine Learning
+- êµì¬: Murphy - Machine Learning
 	+ Eng: https://mitpress.mit.edu/books/machine-learning-0
 	+ Kor: http://www.yes24.co.kr/24/goods/20008522
-	+ P.S. ÀÎÅÍ³İ¿¡¼­ Àß Ã£¾Æº¸¸é pdf°¡ ÀÖÀ»Áöµµ..
+	+ P.S. ì¸í„°ë„·ì—ì„œ ì˜ ì°¾ì•„ë³´ë©´ pdfê°€ ìˆì„ì§€ë„..
 
-- ¹üÀ§: Chapter 1
-- È¸ºñ: 3000¿ø (Àå¼Ò »ç¿ëºñ)
+- ì°¸ê³ ìë£Œ: 
+	+ ìˆ˜ë¦¬í•™ ê°œë¡ : https://courses.csail.mit.edu/6.042/spring17/mcs.pdf
+	+ ì„ í˜•ëŒ€ìˆ˜í•™: https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3
+	+ í™•ë¥  ë° ëœë¤ í”„ë¡œì„¸ìŠ¤: http://frank.villaro-dixon.eu/public_upload/Probability,_Statistics,_and_Random_Processes_for_Eletrical_Engineerging,_3rd_Ed_-_Leon-Garcia.pdf
+	
+- íšŒë¹„(ë¯¸ì •): 3000ì› (ì¥ì†Œ ì‚¬ìš©ë¹„)
