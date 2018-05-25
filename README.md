@@ -1,8 +1,8 @@
-# Machine Learning Study (5/24, 2018)
+# Machine Learning Study (5/31, 2018)
 - 장소(미정): 소프트웨어 마에스트로 센터(선릉역) - https://www.software.kr/um/um05/um0501/um050104/um05010401.do
 - 시간: 목요일 오후 7시 30분
 
-- 내용: Chapter 1, Murphy - Machine Learning
+- 내용: Chapter 2, Murphy - Machine Learning
 	+ 7:30-8:00 -> 각자 예습 및 복습
 	+ 8:10-8:45 -> 발표자1 발표(Chapter 2.2 ~ 2.3)
 	+ 8:55-9:30 -> 발표자2 발표(Chapter 2.4 ~ 2.5)
